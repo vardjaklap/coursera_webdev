@@ -1,0 +1,12 @@
+.list-group-item{
+	background-color: #eeeeee;
+}
+.mainTitle{
+	margin-bottom: 25px;
+}
+.textBox{
+	height: 1000px;
+	background-color: lightgrey;
+	padding: 5px 15px;
+	margin-bottom: 20px;
+}
